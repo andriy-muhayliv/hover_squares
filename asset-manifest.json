@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hover_squares/static/css/main.cbfa89b0.css",
+    "main.js": "/hover_squares/static/js/main.f9c97a5f.js",
+    "index.html": "/hover_squares/index.html",
+    "main.cbfa89b0.css.map": "/hover_squares/static/css/main.cbfa89b0.css.map",
+    "main.f9c97a5f.js.map": "/hover_squares/static/js/main.f9c97a5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbfa89b0.css",
+    "static/js/main.f9c97a5f.js"
+  ]
+}
